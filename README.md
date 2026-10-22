@@ -7,6 +7,18 @@
 独立开发 · 边缘函数 / OSS / 小工具  
 偶尔搞点图床、写作助手和好玩的实验
 
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=yascitom&label=Profile%20views&color=58a6ff&style=for-the-badge)
+
+</div>
+
+---
+
+### 💬 每日一句
+
+<div align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&category=programming&border_radius=10" alt="daily quote" />
 </div>
 
 ---
