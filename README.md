@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Independent+maker+%2F+%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91;Edge+%26+OSS+tools;Building+yunwo+%26+side+projects)](https://git.io/typing-svg)
 
 独立开发 · 边缘函数 / OSS / 小工具  
-偶尔搞点图床、写作助手和好玩的实验
+偶尔搞点图床和好玩的实验
 
 <br/>
 
@@ -38,7 +38,6 @@
 | Project | What it is |
 |:--------|:-----------|
 | [**yunwo**](https://github.com/yascitom/yunwo) | 云窝 · OSS + Cloudflare 免流分发的私有图床 / 小型网盘 |
-| [**easy-writing**](https://github.com/yascitom/easy-writing) | 易创 · 本地开源 AI 网文写作桌面软件 |
 | [**dsh-opencode-go-box**](https://github.com/yascitom/dsh-opencode-go-box) | DeepSeek / OpenCode 相关小盒子 |
 | [**ipcard**](https://github.com/yascitom/ipcard) | 轻量 IP 卡片小工具 |
 
